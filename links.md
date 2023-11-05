@@ -13,3 +13,5 @@ permalink: LINKS/
 7. [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) --- a video explanation about what is a pointer and how pointers work
 8. [Memory Management in Operating System](https://www.computerhope.com/jargon/m/memory.htm) --- how to define and manage memory
 9. [How Secure Shell Works (SSH)](https://www.youtube.com/watch?v=ORcvSkgdA58) --- video explanation about SSH is an encrypting wa of connecting two machines
+10. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/) ---  talk about the fork() function and then implement some examples in the C programming language
+11. [Linux Process vs. Thread](https://www.baeldung.com/linux/process-vs-thread#:~:text=A%20process%20has%20its%20own,faster%20due%20to%20shared%20memory.) --- the details of the process and thread in the context of Linux
