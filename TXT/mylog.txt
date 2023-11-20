@@ -2,12 +2,18 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W02 15 L64 Helping a friend (OS related problem)
-ZCZC W01 20 L01 SCELE/Discord related
-ZCZC W01 120 L02 CLASSROOM/ZOOM meetings related
-ZCZC W01 60 L05 Quiz related including studying
-ZCZC W01 40 L11 Assignment #07
-ZCZC W06 15 L01 SCELE related
+ZCZC W08 20 L01 SCELE/Discord related
+ZCZC W08 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 60 L05 Quiz related including studying
+ZCZC W08 90 L12 Assignment #04
+ZCZC W08 20 L64 Helping a friend (OS related problem)
+ZCZC W08 200 L98 Else that is not related with this Operating Systems class.
+ZCZC W07 15 L64 Helping a friend (OS related problem)
+ZCZC W07 20 L01 SCELE/Discord related
+ZCZC W07 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 60 L05 Quiz related including studying
+ZCZC W07 40 L11 Assignment #07
+ZCZC W07 15 L01 SCELE related
 ZCZC W06 60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W06 10 L03 GitHub related
 ZCZC W06 30 L16 Assignment #06

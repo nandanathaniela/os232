@@ -15,4 +15,6 @@ permalink: LINKS/
 9. [How Secure Shell Works (SSH)](https://www.youtube.com/watch?v=ORcvSkgdA58) --- video explanation about SSH is an encrypting wa of connecting two machines
 10. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/) ---  talk about the fork() function and then implement some examples in the C programming language
 11. [Linux Process vs. Thread](https://www.baeldung.com/linux/process-vs-thread#:~:text=A%20process%20has%20its%20own,faster%20due%20to%20shared%20memory.) --- the details of the process and thread in the context of Linux
-12. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/#) --- what and how is Process Synchronization in OS 
+12. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/#) --- what and how is Process Synchronization in OS
+13. [The Linux From Scratch version 12.0 Book](https://www.linuxfromscratch.org/lfs/view/12.0/) --- A tutorial and explanation on how to do linux from scratch
+14. [Kernotex's YouTube LFS 12.0 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- A playlist of tutorial on how to do linux from scratch 
