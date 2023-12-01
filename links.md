@@ -18,4 +18,5 @@ permalink: LINKS/
 12. [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/#) --- what and how is Process Synchronization in OS
 13. [The Linux From Scratch version 12.0 Book](https://www.linuxfromscratch.org/lfs/view/12.0/) --- A tutorial and explanation on how to do linux from scratch
 14. [Kernotex's YouTube LFS 12.0 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- A playlist of tutorial on how to do linux from scratch
-15. [What Is Linux LFS (Linux from Scratch)](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026) --- This article discusses the Linux LFS (Linux From Scratch) project which offers a comprehensive guide and scripts for creating a custom Linux operating system from scratch. 
+15. [What Is Linux LFS (Linux from Scratch)](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026) --- This article discusses the Linux LFS (Linux From Scratch) project which offers a comprehensive guide and scripts for creating a custom Linux operating system from scratch.
+16. [Embedded System I/O Programming] (https://www.javatpoint.com/embedded-system-input-output-programming) --- an explanation about io programming 

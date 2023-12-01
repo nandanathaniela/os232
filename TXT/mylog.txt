@@ -2,13 +2,19 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W10 20 L64 Helping a friend (OS related problem)
+ZCZC W10 30 L01 SCELE/Discord related
+ZCZC W10 150 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 50 L05 Quiz related including studying
+ZCZC W10 40 L11 Assignment #10
+ZCZC W10 15 L01 SCELE related
 ZCZC W09 100 L05 Quiz related including studying
 ZCZC W09 180 L19 Assignment #09 
 ZCZC W09 15 L01 SCELE/Discord Related
 ZCZC W08 20 L01 SCELE/Discord related
 ZCZC W08 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W08 60 L05 Quiz related including studying
-ZCZC W08 90 L12 Assignment #04
+ZCZC W08 90 L12 Assignment #08
 ZCZC W08 20 L64 Helping a friend (OS related problem)
 ZCZC W08 200 L98 Else that is not related with this Operating Systems class.
 ZCZC W07 15 L64 Helping a friend (OS related problem)
